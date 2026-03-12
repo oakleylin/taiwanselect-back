@@ -1,0 +1,13 @@
+{
+  "runtime": "NODE18.x",
+  "version": "1.0",
+  "environment": {},
+  "secrets": ["HUBSPOT_TOKEN"],
+  "endpoints": {
+    "submit": {
+      "method": "POST",
+      "file": "submit.js"
+    }
+  }
+}
+

@@ -1,0 +1,13 @@
+# Local Netlify folder
+.netlify
+
+# Environment variables (contains secrets)
+.env
+.env.local
+.env*.local
+
+# HubSpot CLI config (contains personal access key)
+hubspot.config.yml
+
+# Node modules
+node_modules/
